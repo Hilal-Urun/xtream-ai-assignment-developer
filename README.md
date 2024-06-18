@@ -68,4 +68,10 @@ Observability is key. Save every request and response made to the APIs to a **pr
 ---
 
 ## How to run
-Please fill this section as part of the assignment.
+1. python 3.9
+2. pip install -requirements.txt
+3. python development/pipeline.py
+
+After models are saved ;
+
+5. python development/api.py
